@@ -1,4 +1,4 @@
-# platzi-exchange
+# cryptoworld
 
 ## Project setup
 ```
